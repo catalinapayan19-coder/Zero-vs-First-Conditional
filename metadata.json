@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Conditionals Challenge - Future Teachers Edition",
+  "description": "An interactive, gamified English learning app for future EFL teachers to master Zero and First Conditionals through classroom contexts, audio, and challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
